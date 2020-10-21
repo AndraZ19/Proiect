@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<ArrayOfOperatiiContabile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>3</Id>
+    <nume>Modificare 4</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>4</Id>
+    <nume>Modificare 4scadere</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>5</Id>
+    <nume>Modificare 4test</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>6</Id>
+    <nume>Modificare 4test1</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>7</Id>
+    <nume>Modificare 4test</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>8</Id>
+    <nume>Modificare 4show</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>9</Id>
+    <nume>Modificare 4next</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="InchidereCont">
+    <Id>10</Id>
+    <nume>Inchidere 6test</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="InchidereCont">
+    <Id>11</Id>
+    <nume>Inchidere 6test</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>12</Id>
+    <nume>Modificare 4modfi</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>13</Id>
+    <nume>Modificare 4n</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>14</Id>
+    <nume>Modificare 4tes</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="InchidereCont">
+    <Id>15</Id>
+    <nume>Inchidere 6</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="InchidereCont">
+    <Id>16</Id>
+    <nume>Inchidere 6</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="InchidereCont">
+    <Id>17</Id>
+    <nume>Inchidere 6</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="InchidereCont">
+    <Id>18</Id>
+    <nume>Inchidere 6</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="InchidereCont">
+    <Id>19</Id>
+    <nume>Inchidere 6</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="InchidereCont">
+    <Id>20</Id>
+    <nume>Inchidere 6</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>21</Id>
+    <nume>Modificare 10scadere</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="InchidereCont">
+    <Id>22</Id>
+    <nume>Inchidere 13</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="InchidereCont">
+    <Id>23</Id>
+    <nume>Inchidere 10test</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>24</Id>
+    <nume>Modificare 8getAttribut</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>25</Id>
+    <nume>Modificare 8getAttribut</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="InchidereCont">
+    <Id>26</Id>
+    <nume>Inchidere 8getAttribut</nume>
+  </OperatiiContabile>
+  <OperatiiContabile xsi:type="ModificaSuma">
+    <Id>27</Id>
+    <nume>Modificare 8getAttribut</nume>
+  </OperatiiContabile>
+</ArrayOfOperatiiContabile>
